@@ -31,4 +31,4 @@ python manage.py migrate
 python manage.py runserver 
 
 
-et ofc créer une db qui s'appelle db_test2 je pense vérifier sur le fichier settings.py
+et ofc créer une db qui s'appelle db_test4 je pense vérifier sur le fichier settings.py
